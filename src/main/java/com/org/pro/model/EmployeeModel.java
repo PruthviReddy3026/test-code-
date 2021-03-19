@@ -26,11 +26,11 @@ public class EmployeeModel {
         this.employeeName = employeeName;
     }
 
-    public double getEmployeesalary() {
+    public double getEmployeeSalary() {
         return employeeSalary;
     }
 
-    public void setEmployeesalary(double employeesalary) {
+    public void setEmployeeSalary(double employeesalary) {
         this.employeeSalary = employeesalary;
     }
 }
